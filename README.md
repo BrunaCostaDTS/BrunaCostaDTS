@@ -1,23 +1,28 @@
-<h1 align="center">Olá👋, eu sou Bruna Costa</h1>
+<h1 align="center">Olá, Sejam Bem Vidos(as) ao meu portfólio</h1>
 <h3 align="center">Sou graduada em Ciência Da Computação e pós graduada em Engenharia de Dados (Aprimorar Habilidades) e Gestão De Riscos e Compliance(Melhorar as Entregas)</h3>
 
-- 🔭 Meu trabalho atual é **analista de dados**
+- 🎲 Sou **Analista de Dados Pleno**
+- 📈 Atuo com **coleta e interpretação** de dados, **DataViz** para uma melhor compreensão sobre os dados expostos e **storytelling** para que os dados sejam passados de forma estruturada e clara.
 
-- 🌱 Normalmente estudo para obter **certificações**
+- 💬 Me pergunte sobre: PowerBI, DataViz, Análises e Estruturas de Dados e Inteligência Artificial 
 
-- 👯 Minhas colaborações envoltam **entregas de DataViz e estruturação de bases**
+<h3 align="left">Conecte-se comigo</h3>
+https://linkedin.com/in/https://www.linkedin.com/in/bruna-costa-755233108/
+</p>
 
-- 🤝 Normalmente ajudo e busco conhecimento **na área de dados**
+<h3 align="left">Idiomas</h3>
+Inglês Intermediário
+</p>
+<h3 align="left">Ferramentas</h3>
+Nível Avançado: ETL, SQL, PowerBI, Pacote Office.
+</p>
+Nível Intermediário:  Python, C#, Angular, TensorFlow, AWS.
 
-- 💬 Dados **SQL, PBI, DataViz, Pacote Office, Python**
-
-- 📫 Como me contatar **https://linkedin.com/in/https://www.linkedin.com/in/bruna-costa-755233108/**
-
-- ⚡ Fun fact **Por que os analistas de dados não jogam pôquer na floresta? Porque lá não tem bons conjuntos de dados!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://linkedin.com/in/https://www.linkedin.com/in/bruna-costa-755233108/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/https://www.linkedin.com/in/bruna-costa-755233108/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bruna-costa-755233108/![image](https://github.com/BrunaCostaDTS/BrunaCostaDTS/assets/67924417/03e7e772-3d31-4c83-b253-e8d3e418a555)
+" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/https://www.linkedin.com/in/bruna-costa-755233108/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
